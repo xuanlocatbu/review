@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "scoping_reviews.html",
+    "href": "scoping_reviews.html",
+    "title": "Scoping Reviews",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "scoping_reviews.html#motivation",
+    "href": "scoping_reviews.html#motivation",
+    "title": "Scoping Reviews",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "scoping_reviews.html#running-code",
+    "href": "scoping_reviews.html#running-code",
+    "title": "Scoping Reviews",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  },
+  {
+    "objectID": "systematic_reviews.html",
+    "href": "systematic_reviews.html",
+    "title": "Systematic Reviews",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "systematic_reviews.html#definition",
+    "href": "systematic_reviews.html#definition",
+    "title": "Systematic Reviews",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "systematic_reviews.html#running-code",
+    "href": "systematic_reviews.html#running-code",
+    "title": "Systematic Reviews",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]

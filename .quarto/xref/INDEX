@@ -1,0 +1,26 @@
+{
+  "systematic_reviews.qmd": {
+    "systematic_reviews.html": "7f42f28d",
+    "systematic_reviews.tex": "4eafcd72"
+  },
+  "scoping_reviews.qmd": {
+    "scoping_reviews.html": "d7e3e5a4",
+    "scoping_reviews.tex": "71e1664d"
+  },
+  "intro.qmd": {
+    "intro.html": "a9ebfd38",
+    "intro.tex": "d0a2f1ed"
+  },
+  "narrative_reviews.qmd": {
+    "narrative_reviews.html": "9572a3df",
+    "narrative_reviews.tex": "1f21ba85"
+  },
+  "rapid_reviews.qmd": {
+    "rapid_reviews.html": "e827dec4",
+    "rapid_reviews.tex": "efa3ec29"
+  },
+  "umbrella_reviews.qmd": {
+    "umbrella_reviews.html": "92bf4c61",
+    "umbrella_reviews.tex": "a7a1b4f0"
+  }
+}

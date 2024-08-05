@@ -1,0 +1,23 @@
+project: 
+  type: website
+  output-dir: docs
+
+execute: 
+  freeze: auto
+
+website: 
+  title: "Literature Review"
+  navbar: 
+    left:
+      - intro.qmd
+      - narrative_reviews.qmd
+      - rapid_reviews.qmd
+      - systematic_reviews.qmd
+      - scoping_reviews.qmd
+      - umbrella_reviews.qmd
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

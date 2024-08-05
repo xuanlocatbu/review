@@ -1,0 +1,14 @@
+---
+title: "Introduction"
+format:
+  html: default
+  pdf: default
+editor: visual
+execute: 
+  echo: true
+bibliography: references.bib
+---
+
+## Motivation
+
+Evidence-based practice (EBP) is a healthcare approach in which professionals utilize the most reliable and relevant information to make clinical decisions tailored to individual patients [@mckibbon1998].

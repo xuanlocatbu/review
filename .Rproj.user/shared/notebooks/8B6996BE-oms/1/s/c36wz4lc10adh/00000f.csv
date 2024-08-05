@@ -1,0 +1,4 @@
+"0","q <- opq(bbox = c(51.1, 0.1, 51.2, 0.2))"
+"0","q <- opq(bbox = 'greater london uk') %>%"
+"0","    add_osm_feature(key = 'highway', value = 'motorway')"
+"0",""

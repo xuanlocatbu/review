@@ -1,0 +1,9 @@
+---
+title: "Rapid reviews"
+format:
+  html: default
+  pdf: default
+editor: visual
+execute: 
+  echo: true
+---
