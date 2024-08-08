@@ -1,4 +1,181 @@
 {
-    "sources": [],
+    "sources": [
+        {
+            "URL": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC226388/",
+            "author": [
+                {
+                    "family": "McKibbon",
+                    "given": "K A"
+                }
+            ],
+            "container-title": "Bulletin of the Medical Library Association",
+            "id": "mckibbon1998",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1998,
+                        7
+                    ]
+                ]
+            },
+            "note": "PMID: 9681176 PMCID: PMC226388",
+            "page": "396-401",
+            "title": "Evidence-based practice.",
+            "type": "article-journal",
+            "volume": "86"
+        },
+        {
+            "DOI": "10.1111/jrh.12402",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/jrh.12402",
+            "author": [
+                {
+                    "family": "Amiri",
+                    "given": "Solmaz"
+                },
+                {
+                    "family": "Espenschied",
+                    "given": "Jonathan R."
+                },
+                {
+                    "family": "Roll",
+                    "given": "John M."
+                },
+                {
+                    "family": "Amram",
+                    "given": "Ofer"
+                }
+            ],
+            "container-title": "The Journal of Rural Health",
+            "id": "amiri2020",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "292-299",
+            "title": "Access to Primary Care Physicians and Mortality in Washington State: Application of a 2-Step Floating Catchment Area",
+            "title-short": "Access to Primary Care Physicians and Mortality in Washington State",
+            "type": "article-journal",
+            "volume": "36"
+        },
+        {
+            "DOI": "10.4300/JGME-D-22-00481.1",
+            "URL": "https://meridian.allenpress.com/jgme/article/14/4/418/484915/Narrative-Reviews-in-Medical-Education-Key-Steps",
+            "author": [
+                {
+                    "family": "Sukhera",
+                    "given": "Javeed"
+                }
+            ],
+            "container-title": "Journal of Graduate Medical Education",
+            "id": "sukhera2022",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "418-419",
+            "title": "Narrative Reviews in Medical Education: Key Steps for Researchers",
+            "title-short": "Narrative Reviews in Medical Education",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "DOI": "10.4300/JGME-D-22-00481.1",
+            "URL": "https://meridian.allenpress.com/jgme/article/14/4/418/484915/Narrative-Reviews-in-Medical-Education-Key-Steps",
+            "author": [
+                {
+                    "family": "Sukhera",
+                    "given": "Javeed"
+                }
+            ],
+            "container-title": "Journal of Graduate Medical Education",
+            "id": "sukhera2022a",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "418-419",
+            "title": "Narrative Reviews in Medical Education: Key Steps for Researchers",
+            "title-short": "Narrative Reviews in Medical Education",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "DOI": "10.4300/JGME-D-22-00481.1",
+            "URL": "https://meridian.allenpress.com/jgme/article/14/4/418/484915/Narrative-Reviews-in-Medical-Education-Key-Steps",
+            "author": [
+                {
+                    "family": "Sukhera",
+                    "given": "Javeed"
+                }
+            ],
+            "container-title": "Journal of Graduate Medical Education",
+            "id": "sukhera2022b",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "418-419",
+            "title": "Narrative Reviews in Medical Education: Key Steps for Researchers",
+            "title-short": "Narrative Reviews in Medical Education",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "DOI": "10.4300/JGME-D-22-00481.1",
+            "URL": "https://meridian.allenpress.com/jgme/article/14/4/418/484915/Narrative-Reviews-in-Medical-Education-Key-Steps",
+            "author": [
+                {
+                    "family": "Sukhera",
+                    "given": "Javeed"
+                }
+            ],
+            "container-title": "Journal of Graduate Medical Education",
+            "id": "sukhera2022c",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "418-419",
+            "title": "Narrative Reviews in Medical Education: Key Steps for Researchers",
+            "title-short": "Narrative Reviews in Medical Education",
+            "type": "article-journal",
+            "volume": "14"
+        }
+    ],
     "project_biblios": []
 }

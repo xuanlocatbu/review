@@ -21,6 +21,34 @@
     "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   },
   {
+    "objectID": "narrative_reviews.html",
+    "href": "narrative_reviews.html",
+    "title": "Narrative Reviews",
+    "section": "",
+    "text": "Narrative Reviews (which is also referred as traditional reviews or literature reviews) are the most basic form of literature reviews. According to (Sukhera 2022), in a narrative reviews, researchers provide a comprehensive description and analysis of existing literature on a selected topic. Narrative reviews, often considered a quicker type of review, aim to provide a flexible yet thorough approach to analyzing and interpreting existing literature. Narrative reviews have no predetermined research question or specified search strategy, only a topic of interest. They are not systematic and follow no specified protocol. No standards or protocols guide the review. Researchers conducting narrative reviews usually follow chronological order in their description and organize the manuscript according to introduction, methods, results, and discussion."
+  },
+  {
+    "objectID": "narrative_reviews.html#definition",
+    "href": "narrative_reviews.html#definition",
+    "title": "Narrative Reviews",
+    "section": "",
+    "text": "Narrative Reviews (which is also referred as traditional reviews or literature reviews) are the most basic form of literature reviews. According to (Sukhera 2022), in a narrative reviews, researchers provide a comprehensive description and analysis of existing literature on a selected topic. Narrative reviews, often considered a quicker type of review, aim to provide a flexible yet thorough approach to analyzing and interpreting existing literature. Narrative reviews have no predetermined research question or specified search strategy, only a topic of interest. They are not systematic and follow no specified protocol. No standards or protocols guide the review. Researchers conducting narrative reviews usually follow chronological order in their description and organize the manuscript according to introduction, methods, results, and discussion."
+  },
+  {
+    "objectID": "narrative_reviews.html#how-to-conduct-narrative-reviews",
+    "href": "narrative_reviews.html#how-to-conduct-narrative-reviews",
+    "title": "Narrative Reviews",
+    "section": "How to conduct narrative reviews",
+    "text": "How to conduct narrative reviews\nAlthough narrative reviews typically will reflect the style and subjective interpretations of the author team, there are 4 common steps to conduct narrative reviews. This is according to (Sukhera 2022) and this website.\n\nIdentifying a Research Question\nThe first step in conducting a narrative review requires researchers to describe the rationale and justification for the review. Although there is no framework for research questions in narrative reviews, the research question should be specific, clear, and focused on the topic the researchers wish to review. One can consider what is already known about the topic and what could be added or improved through further research.\n\n\nConducting a Literature Search\nThe next step is to conduct a thorough literature search. Begin by selecting appropriate databases, such as PubMed or Scopus, and identifying key terms related to your research question. Although the search terms are not always known at the outset of a narrative review, researchers should provide readers with comprehensive information on how they developed their search strategy and terms, including a well-founded rationale for the decisions made during the process; this information is frequently presented in appendices. Rememver that it is important for researchers to name the databases being searched. Moreover, be sure to include both published and unpublished studies, such as conference proceedings or grey literature.\n\n\nScreening and Selecting Revelant Studies\nSpecifying inclusion and exclusion criteria can be beneficial; however, as a narrative review is not designed to be a comprehensive review of the literature, providing the rationale for the chosen parameters is crucial. With narrative reviews, it is not necessary to include every article on a topic. Nevertheless, researchers should be clear and explicit about the choices they made, how they conducted screening, and which team members were involved. Authors should also consider how they assessed the quality of articles included in the review.\n\n\nOrganizing and Analizying the Literature\nOnce you have gathered the relevant studies, the next step is to organize and analyze them. Start by creating an outline of the major themes and ideas present in the literature. Assess each study’s methodology, results, and limitations, and explore areas of agreement and disagreement among the findings. Researchers must provide examples that justify their interpretations and demonstrate how their interpretations have been used to inform their conclusions."
+  },
+  {
+    "objectID": "narrative_reviews.html#strengths-and-limitations",
+    "href": "narrative_reviews.html#strengths-and-limitations",
+    "title": "Narrative Reviews",
+    "section": "Strengths and Limitations",
+    "text": "Strengths and Limitations\nThis part is according to (Sukhera 2022) and (Grant and Booth 2009).\n\nStrengths\nNarrative reviews provide a quick, flexible yet rigorous approach for knowledge synthesis, which is useful to young many educators and researchers.\nThe literature review method seeks to identify what has been accomplished previously, allowing for consolidation, for building on previous work, for summation, for avoiding duplication and for identifying omissions or gaps. One can read them as a general and accurate guide to what is already known about a given topic. They are also more accessible and easier to read than other types of reviews, making them suitable for a broader audience, including non-specialists.\n\n\nLimitations\nAccording to (Sukhera 2022), narrative reviews are not often reproducible related to the because of the authors and setting on screening, sampling, and analysis.\nNarrative reviews do not include an exhaustive search of all possible evidence on a given topic. A narrative review’s approach to inclusion gives rise to another common criticism of narrative reviews: they are selective, which may make them harder to critically appraise against strict criteria. Additionally, authors may only select literature that supports their world view, lending undue credence to a preferred hypothesis."
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "Introduction",

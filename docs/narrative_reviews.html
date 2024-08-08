@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -124,8 +144,26 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="narrative_reviews.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#definition" id="toc-definition" class="nav-link active" data-scroll-target="#definition">Definition</a></li>
+  <li><a href="#how-to-conduct-narrative-reviews" id="toc-how-to-conduct-narrative-reviews" class="nav-link" data-scroll-target="#how-to-conduct-narrative-reviews">How to conduct narrative reviews</a>
+  <ul class="collapse">
+  <li><a href="#identifying-a-research-question" id="toc-identifying-a-research-question" class="nav-link" data-scroll-target="#identifying-a-research-question">Identifying a Research Question</a></li>
+  <li><a href="#conducting-a-literature-search" id="toc-conducting-a-literature-search" class="nav-link" data-scroll-target="#conducting-a-literature-search"><strong>Conducting a Literature Search</strong></a></li>
+  <li><a href="#screening-and-selecting-revelant-studies" id="toc-screening-and-selecting-revelant-studies" class="nav-link" data-scroll-target="#screening-and-selecting-revelant-studies">Screening and Selecting Revelant Studies</a></li>
+  <li><a href="#organizing-and-analizying-the-literature" id="toc-organizing-and-analizying-the-literature" class="nav-link" data-scroll-target="#organizing-and-analizying-the-literature"><strong>Organizing and Analizying the Literature</strong></a></li>
+  </ul></li>
+  <li><a href="#strengths-and-limitations" id="toc-strengths-and-limitations" class="nav-link" data-scroll-target="#strengths-and-limitations">Strengths and Limitations</a>
+  <ul class="collapse">
+  <li><a href="#strengths" id="toc-strengths" class="nav-link" data-scroll-target="#strengths">Strengths</a></li>
+  <li><a href="#limitations" id="toc-limitations" class="nav-link" data-scroll-target="#limitations">Limitations</a></li>
+  </ul></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="narrative_reviews.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -148,10 +186,56 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="definition" class="level2">
+<h2 class="anchored" data-anchor-id="definition">Definition</h2>
+<p><strong>Narrative Reviews</strong> (which is also referred as traditional reviews or literature reviews) are the most basic form of literature reviews. According to <span class="citation" data-cites="sukhera2022">(<a href="#ref-sukhera2022" role="doc-biblioref">Sukhera 2022</a>)</span>, in a narrative reviews, researchers provide a comprehensive description and analysis of existing literature on a selected topic. Narrative reviews, often considered a quicker type of review, aim to provide a flexible yet thorough approach to analyzing and interpreting existing literature. Narrative reviews have no predetermined research question or specified search strategy, only a topic of interest. They are not systematic and follow no specified protocol. No standards or protocols guide the review. Researchers conducting narrative reviews usually follow chronological order in their description and organize the manuscript according to introduction, methods, results, and discussion.</p>
+</section>
+<section id="how-to-conduct-narrative-reviews" class="level2">
+<h2 class="anchored" data-anchor-id="how-to-conduct-narrative-reviews">How to conduct narrative reviews</h2>
+<p>Although narrative reviews typically will reflect the style and subjective interpretations of the author team, there are 4 common steps to conduct narrative reviews. This is according to <span class="citation" data-cites="sukhera2022">(<a href="#ref-sukhera2022" role="doc-biblioref">Sukhera 2022</a>)</span> and this <a href="https://www.theneuron.ai/write/reviews/narrative-review#:~:text=The%20first%20step%20in%20writing,or%20improved%20through%20further%20research.">website</a>.</p>
+<section id="identifying-a-research-question" class="level3">
+<h3 class="anchored" data-anchor-id="identifying-a-research-question">Identifying a Research Question</h3>
+<p>The first step in conducting a narrative review requires researchers to describe the rationale and justification for the review. Although there is no framework for research questions in narrative reviews, the research question should be specific, clear, and focused on the topic the researchers wish to review. One can consider what is already known about the topic and what could be added or improved through further research.</p>
+</section>
+<section id="conducting-a-literature-search" class="level3">
+<h3 class="anchored" data-anchor-id="conducting-a-literature-search"><strong>Conducting a Literature Search</strong></h3>
+<p>The next step is to conduct a thorough literature search. Begin by selecting appropriate databases, such as PubMed or Scopus, and identifying key terms related to your research question. Although the search terms are not always known at the outset of a narrative review, researchers should provide readers with comprehensive information on how they developed their search strategy and terms, including a well-founded rationale for the decisions made during the process; this information is frequently presented in appendices. Rememver that it is important for researchers to name the databases being searched. Moreover, be sure to include both published and unpublished studies, such as conference proceedings or grey literature.</p>
+</section>
+<section id="screening-and-selecting-revelant-studies" class="level3">
+<h3 class="anchored" data-anchor-id="screening-and-selecting-revelant-studies">Screening and Selecting Revelant Studies</h3>
+<p>Specifying inclusion and exclusion criteria can be beneficial; however, as a narrative review is not designed to be a comprehensive review of the literature, providing the rationale for the chosen parameters is crucial. With narrative reviews, it is not necessary to include every article on a topic. Nevertheless, researchers should be clear and explicit about the choices they made, how they conducted screening, and which team members were involved. Authors should also consider how they assessed the quality of articles included in the review.</p>
+</section>
+<section id="organizing-and-analizying-the-literature" class="level3">
+<h3 class="anchored" data-anchor-id="organizing-and-analizying-the-literature"><strong>Organizing and Analizying the Literature</strong></h3>
+<p>Once you have gathered the relevant studies, the next step is to organize and analyze them. Start by creating an outline of the major themes and ideas present in the literature. Assess each study’s methodology, results, and limitations, and explore areas of agreement and disagreement among the findings. Researchers must provide examples that justify their interpretations and demonstrate how their interpretations have been used to inform their conclusions.</p>
+</section>
+</section>
+<section id="strengths-and-limitations" class="level2">
+<h2 class="anchored" data-anchor-id="strengths-and-limitations">Strengths and Limitations</h2>
+<p>This part is according to <span class="citation" data-cites="sukhera2022">(<a href="#ref-sukhera2022" role="doc-biblioref">Sukhera 2022</a>)</span> and <span class="citation" data-cites="grant2009">(<a href="#ref-grant2009" role="doc-biblioref">Grant and Booth 2009</a>)</span>.</p>
+<section id="strengths" class="level3">
+<h3 class="anchored" data-anchor-id="strengths">Strengths</h3>
+<p>Narrative reviews provide a quick, flexible yet rigorous approach for knowledge synthesis, which is useful to young many educators and researchers.</p>
+<p>The literature review method seeks to identify what has been accomplished previously, allowing for consolidation, for building on previous work, for summation, for avoiding duplication and for identifying omissions or gaps. One can read them as a general and accurate guide to what is already known about a given topic. They are also more accessible and easier to read than other types of reviews, making them suitable for a broader audience, including non-specialists.</p>
+</section>
+<section id="limitations" class="level3">
+<h3 class="anchored" data-anchor-id="limitations">Limitations</h3>
+<p>According to <span class="citation" data-cites="sukhera2022">(<a href="#ref-sukhera2022" role="doc-biblioref">Sukhera 2022</a>)</span>, narrative reviews are not often reproducible related to the because of the authors and setting on screening, sampling, and analysis.</p>
+<p>Narrative reviews do not include an exhaustive search of all possible evidence on a given topic. A narrative review’s approach to inclusion gives rise to another common criticism of narrative reviews: they are selective, which may make them harder to critically appraise against strict criteria. Additionally, authors may only select literature that supports their world view, lending undue credence to a preferred hypothesis.</p>
 
 
 
-</main> <!-- /main -->
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-grant2009" class="csl-entry" role="listitem">
+Grant, Maria J., and Andrew Booth. 2009. <span>“A Typology of Reviews: An Analysis of 14 Review Types and Associated Methodologies.”</span> <em>Health Information &amp; Libraries Journal</em> 26 (2): 91–108. <a href="https://doi.org/10.1111/j.1471-1842.2009.00848.x">https://doi.org/10.1111/j.1471-1842.2009.00848.x</a>.
+</div>
+<div id="ref-sukhera2022" class="csl-entry" role="listitem">
+Sukhera, Javeed. 2022. <span>“Narrative Reviews in Medical Education: Key Steps for Researchers.”</span> <em>Journal of Graduate Medical Education</em> 14 (4): 418–19. <a href="https://doi.org/10.4300/JGME-D-22-00481.1">https://doi.org/10.4300/JGME-D-22-00481.1</a>.
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
