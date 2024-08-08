@@ -1,5 +1,5 @@
 ---
-title: "Rapid reviews"
+title: "Rapid Reviews"
 format:
   html: default
   pdf: default

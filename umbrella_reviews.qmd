@@ -1,5 +1,5 @@
 ---
-title: "Umbrella reviews"
+title: "Umbrella Reviews"
 format:
   html: default
   pdf: default
